@@ -1,8 +1,8 @@
-# I-Check (Image Similarity Search)
+#I-Check (Image Similarity Search)
 
 I-Check is a tool designed to find similar images by uploading an image (JPG, PNG) or document (PDF, Word, PPTX). The tool utilizes Structural Similarity Index (SSIM) and color histogram similarity metrics to identify and display similar images along with their metadata.
 
-## Features
+##Features
 
 - Upload Images and Documents: Supports JPG, PNG, PDF, Word, and PPTX files.
 - Similarity Search: Finds and displays similar images using SSIM and color histogram similarity metrics.
@@ -12,7 +12,7 @@ I-Check is a tool designed to find similar images by uploading an image (JPG, PN
 - Logging: Logs errors to `app.log` for troubleshooting.
 - GUI: Built with Tkinter for a user-friendly interface.
 
-## Requirements
+##Requirements
 
 - Python 3.6+
 - Packages: 
@@ -29,7 +29,7 @@ I-Check is a tool designed to find similar images by uploading an image (JPG, PN
   - cryptography
   - sympy
 
-## How to Run
+##How to Run
 
 - Open the folder in your chosen IDE such as Visual Studio Code. Then run the FYP (I-CHECK)_TP062285.py file.
 - Wait until it installs all the required libraries and import. Once installed you can start to use the app.
