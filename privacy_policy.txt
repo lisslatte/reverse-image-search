@@ -1,0 +1,19 @@
+Privacy Policy
+
+    1. Data Collection:
+       - The application does not collect any personal data from users.
+
+    2. Image Handling:
+       - Images uploaded to the application are processed locally and are not transmitted over the internet.
+       - The application encrypts images during processing to ensure data security.
+
+    3. Data Security:
+       - The application employs standard security practices to protect data during processing.
+
+    4. User Responsibility:
+       - Users are responsible for ensuring that they have the right to use and upload any images or documents.
+
+    5. Contact:
+       - For any privacy concerns, please contact the developer.
+
+    By using the application, you agree to this privacy policy.

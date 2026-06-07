@@ -1,0 +1,22 @@
+ Welcome to I-Check (Image Similarity Search)!
+
+    Here is a brief guide to help you get started:
+
+    1. Upload an Image or Document:
+       Click the 'Upload' button to select an image (JPG, JPEG, PNG) or a document (PDF, DOCX, PPTX).
+
+    2. View and Navigate:
+       - Once an image is uploaded, a new tab will open displaying the image.
+       - The application will search for similar images and display them in the tab.
+       - Use the 'Previous' and 'Next' buttons to navigate through similar images.
+
+    3. Extracted Images:
+       - If you upload a document, the application will extract images from the document and display them in separate tabs.
+
+    4. Metadata:
+       - Each image tab includes metadata information such as format, size, and additional details.
+    
+    5. Clear Tab:
+       - Use the 'Clear' button to close the current tab.
+
+    Enjoy using I-Check!
